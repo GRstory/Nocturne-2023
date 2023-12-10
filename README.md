@@ -20,3 +20,5 @@ Unity3D Nocturne 2023 - 고양이 어드벤처
 
 
 개발 기술 - Unity Editor 2021.3.21 LTS / VS Code / Adobe Photoshop CC / TinkerCAD
+
+최종 발표 영상 - https://youtu.be/lz2snvDG-KU?si=X2rmpPMc6CW0Qx2k
