@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Setting_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f2c751ed11e3b7f488522b94dd694254, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 8221855744
+    m_Localized: <#ffffff><size=100%>SETTING</color>    <#ffffff><size=75%>SOUND</color></size>
+      <#73305B><size=50%>GRAPHICS</color></size> <#73305B><size=50%>CONTROLL</color></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60520632320
+    m_Localized: <#ffffff><size=100%>SETTING</color>    <#73305B><size=50%>SOUND</color></size>
+      <#ffffff><size=75%>GRAPHICS</color></size> <#73305B><size=50%>CONTROLL</color></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108327309312
+    m_Localized: <#ffffff><size=100%>SETTING</color>    <#73305B><size=50%>SOUND</color></size>
+      <#73305B><size=50%>GRAPHICS</color></size> <#ffffff><size=75%>CONTROLL</color></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7315093688320
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7292930985984
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7262601973760
+    m_Localized: MASTER
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9779985485824
+    m_Localized: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9812839469056
+    m_Localized: POST PROCESSING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10026543452160
+    m_Localized: RESOLUTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206722485424128
+    m_Localized: FUNCTION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206872809279488
+    m_Localized: KEY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207424775491584
+    m_Localized: MOVE FORWARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207456207605760
+    m_Localized: MOVE LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207720884965376
+    m_Localized: MOVE BACKWARD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207764551864320
+    m_Localized: MOVE RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207950871236608
+    m_Localized: INTERACTION WITH OBJECT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207969464586240
+    m_Localized: INTERACTION WITH NPC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208099873886208
+    m_Localized: CAMERA TURN LEFT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208319319871488
+    m_Localized: CAMERA TURN RIGHT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208436882018304
+    m_Localized: PAUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209034318680064
+    m_Localized: MEOW~
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210693572759552
+    m_Localized: RUN
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210767639973888
+    m_Localized: SILENT WALK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214895783022592
+    m_Localized: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214941643542528
+    m_Localized: INTERACTION / ETC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 560051866537984
+    m_Localized: REFRESH RATE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 560277411041280
+    m_Localized: FULL SCREEN
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

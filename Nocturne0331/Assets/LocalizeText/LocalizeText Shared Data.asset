@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: LocalizeText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: LocalizeText
+  m_TableCollectionNameGuidString: f8fdc5513bfac1d42b50e21c7ae79414
+  m_Entries:
+  - m_Id: 39058378752
+    m_Key: UI_Setting_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173917835264
+    m_Key: UI_Setting_Set01
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927092535296
+    m_Key: UI_Setting_Set02
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2991223443456
+    m_Key: UI_EXIT_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640308764672
+    m_Key: UI_EXIT_Contents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3782835408896
+    m_Key: UI_EXIT_Btn1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3856177008640
+    m_Key: UI_EXIT_Btn2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4888286171136
+    m_Key: UI_GameOn_Contents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5448485801984
+    m_Key: UI_Setting_Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46084253519872
+    m_Key: UI_Fail_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49461356105728
+    m_Key: UI_Fail_Contents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49495027978240
+    m_Key: UI_Fail_Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53769527070720
+    m_Key: UI_Choice_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53863211044864
+    m_Key: UI_Choice_Contents
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53869296979968
+    m_Key: UI_Choice_OK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55519071932416
+    m_Key: UI_Choice_Next
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57514373648384
+    m_Key: UI_Choice_1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57575044255744
+    m_Key: UI_Choice_1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57590038892544
+    m_Key: UI_Choice_1_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57608846151680
+    m_Key: UI_Choice_1_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57632493637632
+    m_Key: UI_Choice_2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57651942625280
+    m_Key: UI_Choice_2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57670988959744
+    m_Key: UI_Choice_2_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57680526807040
+    m_Key: UI_Choice_2_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57690307923968
+    m_Key: UI_Choice3_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57865541750784
+    m_Key: UI_Choice3_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57886181920768
+    m_Key: UI_Choice3_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57897070333952
+    m_Key: UI_Choice3_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59089305440256
+    m_Key: UI_Position_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59210940256256
+    m_Key: UI_Position_Check
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159924760842240
+    m_Key: UI_Part1_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 872187373260800
+    m_Key: Text_Part1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 873378320715776
+    m_Key: Text_Part1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 892062024044544
+    m_Key: Text_Part1_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3341617204039680
+    m_Key: Text_Part1_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3362798627983360
+    m_Key: Text_Part1_5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341320322637824
+    m_Key: UI_PAUSE_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341393127366656
+    m_Key: UI_PAUSE_Btn1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341472210968576
+    m_Key: UI_PAUSE_Btn2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341492268130304
+    m_Key: UI_PAUSE_Btn3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4344886298927104
+    m_Key: UI_PAUSE_Contents_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4345062275145728
+    m_Key: UI_PAUSE_Contents_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4345063860592640
+    m_Key: UI_PAUSE_Contents_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6582614092419072
+    m_Key: UI_ACHI_mode1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6582655267901440
+    m_Key: UI_ACHI_mode2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6582673727033344
+    m_Key: UI_ACHI_mode3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6587593129725952
+    m_Key: UI_ACHI_off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6592225214205952
+    m_Key: UI_ACHI_ACHI1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6618595667480576
+    m_Key: UI_ACHI_off2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7302463053860864
+    m_Key: UI_PAUSE_Btn4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30436331403317248
+    m_Key: UI_Pause_Part2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30436394145910784
+    m_Key: UI_Pause_Part3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30436397132255232
+    m_Key: UI_Pause_Part4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30439267646803968
+    m_Key: UI_Pause_Part1
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 707130425984417816
+  references:
+    version: 2
+    RefIds:
+    - rid: 707130425984417816
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1679119147851

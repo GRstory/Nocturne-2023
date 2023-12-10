@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: LocalizeText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: f8fdc5513bfac1d42b50e21c7ae79414, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 39058378752
+    m_Localized: SETTING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 173917835264
+    m_Localized: LANGUAGE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2927092535296
+    m_Localized: VOLIME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2991223443456
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3640308764672
+    m_Localized: ARE YOU SURE YOU WANT TO QUIT THE GAME?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3782835408896
+    m_Localized: YES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3856177008640
+    m_Localized: NO
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4888286171136
+    m_Localized: PRESS ENTER TO START...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5448485801984
+    m_Localized: SAVE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46084253519872
+    m_Localized: YOU FAILED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49461356105728
+    m_Localized: THE CAT RUN AWAY FOR SOME REASON.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49495027978240
+    m_Localized: CORRECTING MISTAKES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53769527070720
+    m_Localized: CAT'S CHOICES
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53863211044864
+    m_Localized: THESE ARE THE THINGS CAT CHOSE IN THIS CHAPTER.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 53869296979968
+    m_Localized: I SEE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 55519071932416
+    m_Localized: VIEW SELECTIONS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57514373648384
+    m_Localized: LEFT THE OWNER'S ROOM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59089305440256
+    m_Localized: CAT'S POSITION
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59210940256256
+    m_Localized: CHECK
+    m_Metadata:
+      m_Items: []
+  - m_Id: 159924760842240
+    m_Localized: PART ONE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 872187373260800
+    m_Localized: THE CAT FEEL HUNGRY.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 873378320715776
+    m_Localized: IT FEEL STRANGE OUTSIDE.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 892062024044544
+    m_Localized: master hasn't moved for a long time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3341617204039680
+    m_Localized: The surroundings are all blocked by tall walls.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3362798627983360
+    m_Localized: saw something through the alley.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341320322637824
+    m_Localized: PAUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4344886298927104
+    m_Localized: PART ONE IN PROGRESS...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341393127366656
+    m_Localized: SETTING
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341472210968576
+    m_Localized: EXIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4341492268130304
+    m_Localized: BACK TO THE CAT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4345062275145728
+    m_Localized: PART TWO IN PROGRESS...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4345063860592640
+    m_Localized: PART THREE IN PROGRESS...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6582614092419072
+    m_Localized: <#ffffff><size=100%>COLLECTION</color></size> <#a1bbca><size=50%>ACHIEVEMENT</color></size>
+      <#a1bbca><size=50%>STATS</color></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6582655267901440
+    m_Localized: <#a1bbca><size=50%>COLLECTION</color></size> <#ffffff><size=100%>ACHIEVEMENT</color></size>
+      <#a1bbca><size=50%>STATS</color></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6582673727033344
+    m_Localized: <#a1bbca><size=50%>COLLECTION</color></size> <#a1bbca><size=50%>ACHIEVEMENT</color></size>
+      <#ffffff><size=100%>STATS</color></size>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6587593129725952
+    m_Localized: RETURN TO PAUSE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6592225214205952
+    m_Localized: MAKE A MAN ANGRY.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6618595667480576
+    m_Localized: RETURN TO  GAME
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7302463053860864
+    m_Localized: ACHIEVEMENT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30436331403317248
+    m_Localized: The second story is under way
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30436394145910784
+    m_Localized: The third story is under way
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30436397132255232
+    m_Localized: The last story is under way
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30439267646803968
+    m_Localized: The first story is under way
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

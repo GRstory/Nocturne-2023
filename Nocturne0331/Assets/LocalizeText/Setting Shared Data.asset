@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Setting Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Setting
+  m_TableCollectionNameGuidString: f2c751ed11e3b7f488522b94dd694254
+  m_Entries:
+  - m_Id: 8221855744
+    m_Key: Set_Mode1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60520632320
+    m_Key: Set_Mode2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108327309312
+    m_Key: Set_Mode3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7262601973760
+    m_Key: Set_1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7292930985984
+    m_Key: Set_1_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7315093688320
+    m_Key: Set_1_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9779985485824
+    m_Key: Set_2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9812839469056
+    m_Key: Set_2_2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10026543452160
+    m_Key: Set_2_3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206722485424128
+    m_Key: Set_3_0_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 206872809279488
+    m_Key: Set_3_0_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207424775491584
+    m_Key: Set_3_1_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207456207605760
+    m_Key: Set_3_2_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207720884965376
+    m_Key: Set_3_3_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207764551864320
+    m_Key: Set_3_4_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207950871236608
+    m_Key: Set_3_5_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 207969464586240
+    m_Key: Set_3_6_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208099873886208
+    m_Key: Set_3_7_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208319319871488
+    m_Key: Set_3_8_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 208436882018304
+    m_Key: Set_3_9_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 209034318680064
+    m_Key: Set_3_10_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210693572759552
+    m_Key: Set_3_11_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 210767639973888
+    m_Key: Set_3_12_0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214895783022592
+    m_Key: Set_3_T1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214941643542528
+    m_Key: Set_3_T2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 560051866537984
+    m_Key: Set_2_4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 560277411041280
+    m_Key: Set_2_5
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 9107113123599089686
+  references:
+    version: 2
+    RefIds:
+    - rid: 9107113123599089686
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680803651984

@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PartEnd_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 7b27dd5d77f20b54db16a4ee421a270e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4501508096
+    m_Localized: "\uC81C\uC791"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9157185536
+    m_Localized: "\uAE40\uC900\uBA85\n\uC774\uD558\uC601\n\uC815\uC131\uC6B0\n\uC591\uB3D9\uBE48\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70033313792
+    m_Localized: "\uB808\uBCA8 \uB514\uC790\uC778"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73942405120
+    m_Localized: "\uD30C\uD2B81 : \uAE40\uC900\uBA85, \uC774\uD558\uC601\n\uD30C\uD2B82:
+      \uC774\uD558\uC601, \uC591\uB3D9\uBE48\n\uD30C\uD2B83: \uAE40\uC900\uBA85,
+      \uC774\uD558\uC601, \uC815\uC131\uC6B0\n\uD30C\uD2B84: \uAE40\uC900\uBA85"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76605788160
+    m_Localized: "UI \uB514\uC790\uC778"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149439877120
+    m_Localized: "\uAE40\uC900\uBA85"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2125305188352
+    m_Localized: "\uC74C\uC545"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2128752906240
+    m_Localized: "\uC720\uD29C\uBE0C \uC2A4\uD29C\uB514\uC624 - \uC624\uB514\uC624
+      \uBCF4\uAD00\uD568"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3095066021888
+    m_Localized: "\uD504\uB85C\uADF8\uB798\uBC0D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3098949947392
+    m_Localized: "\uAE40\uC900\uBA85\n\uC774\uD558\uC601\n\uC815\uC131\uC6B0\n\uC591\uB3D9\uBE48\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3210031894528
+    m_Localized: "\uC2DC\uB098\uB9AC\uC624"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3214687571968
+    m_Localized: "\uAE40\uC900\uBA85\n\uC774\uD558\uC601\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3260246102016
+    m_Localized: "\uC720\uB2C8\uD2F0 \uC5D0\uC14B"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3266025852928
+    m_Localized: 'Unity - TMPro
+
+      Unity - Localization
+
+      Unity - Universial
+      RP
+
+      Unity - Cinemachine
+
+      Low Poly Cats
+
+      LowPoly Environment
+      PAck
+
+      Low Poly Vehicles
+
+      Nature Pack - Low Poly Trees, Bushes
+
+      Poly
+      Halloween
+
+      Urban Night Sky
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4097391431680
+    m_Localized: "\uD3F0\uD2B8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4099371143168
+    m_Localized: 'Cocogoose - Rugular, Thin
+
+      The Zamsil - Bold, Thin
+
+      Lemon
+      Milk
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4321337905152
+    m_Localized: NOCTURNE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9643683188736
+    m_Localized: 2023 06 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9694908223488
+    m_Localized: By GRstory Studio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17673552367616
+    m_Localized: "\uB05D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20204768694272
+    m_Localized: "\uC774 \uAC8C\uC784\uC744 \uB9CC\uB4DC\uB294 \uB3C4\uC911 \uC5B4\uB290
+      \uACE0\uC591\uC774\uB3C4 \uB2E4\uCE58\uC9C0 \uC54A\uC558\uC2B5\uB2C8\uB2E4."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

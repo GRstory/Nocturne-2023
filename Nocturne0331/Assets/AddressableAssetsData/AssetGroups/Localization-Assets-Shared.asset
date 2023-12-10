@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 418b0370ebca9c14db43b388aef37e45
+  m_SerializeEntries:
+  - m_GUID: f8fdc5513bfac1d42b50e21c7ae79414
+    m_Address: Assets/LocalizeText/LocalizeText Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: e3815fcb60deed443a567c29510f5722
+    m_Address: Assets/LocalizeText/Achievement Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: f2c751ed11e3b7f488522b94dd694254
+    m_Address: Assets/LocalizeText/Setting Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: f38213f9211e4e0478498961a49e07dc
+    m_Address: Assets/LocalizeText/Start Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 3bf37c712368d2143a06e634710191f6
+    m_Address: Assets/LocalizeText/Part1 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 4699469eaf4e45b48b5b80359ddc4720
+    m_Address: Assets/LocalizeText/Part4 Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 7b27dd5d77f20b54db16a4ee421a270e
+    m_Address: Assets/LocalizeText/PartEnd Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 8f529136983d46d4982ee374c92682ba, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c0e56d2420e82f741bc2ae0edfb7d90a, type: 2}
+    - {fileID: 11400000, guid: 99804642f3089ef45a25ecbc1e8d6b18, type: 2}

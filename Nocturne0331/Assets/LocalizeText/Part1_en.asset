@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Part1_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3bf37c712368d2143a06e634710191f6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 9475952640
+    m_Localized: You can move with the [W, A, S, D]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 136756301824
+    m_Localized: You can turn the camera with [Q, E] indoors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1785482678272
+    m_Localized: Moving on to the next day
+    m_Metadata:
+      m_Items: []
+  - m_Id: 314900975616
+    m_Localized: Interactive objects glow blue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1081540055040
+    m_Localized: Auto switch to TPS camera outdoors
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3365397303296
+    m_Localized: Zipsa doesn't seem to move any more
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9933784662118400
+    m_Localized: The cat decides to run through the roof.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9933869525471232
+    m_Localized: Confused to meet something hostile for the first time in my life.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10315126119424000
+    m_Localized: It's a dead end.  Run to the rooftop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10315128791195648
+    m_Localized: Drones don't give up.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10315130577969152
+    m_Localized: A dead end's dead end appeared.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

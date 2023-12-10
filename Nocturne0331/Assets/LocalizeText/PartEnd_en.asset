@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: PartEnd_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 7b27dd5d77f20b54db16a4ee421a270e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 17673552367616
+    m_Localized: The End
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9694908223488
+    m_Localized: By GRstory Studio
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9643683188736
+    m_Localized: 2023 06 10
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4321337905152
+    m_Localized: NOCTURNE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4099371143168
+    m_Localized: 'Cocogoose - Rugular, Thin
+
+      The Zamsil - Bold, Thin
+
+      Lemon
+      Milk
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3266025852928
+    m_Localized: 'Unity - TMPro
+
+      Unity - Localization
+
+      Unity - Universial
+      RP
+
+      Unity - Cinemachine
+
+      Low Poly Cats
+
+      LowPoly Environment
+      PAck
+
+      Low Poly Vehicles
+
+      Nature Pack - Low Poly Trees, Bushes
+
+      Poly
+      Halloween
+
+      Urban Night Sky'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4097391431680
+    m_Localized: Font
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3260246102016
+    m_Localized: Unity Assets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3210031894528
+    m_Localized: Scenario
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3095066021888
+    m_Localized: Programmer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2125305188352
+    m_Localized: Music
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76605788160
+    m_Localized: UI Design
+    m_Metadata:
+      m_Items: []
+  - m_Id: 70033313792
+    m_Localized: Level Design
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4501508096
+    m_Localized: Produce by
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9157185536
+    m_Localized: 'Kim JunMyeong
+
+      Lee HaYong
+
+      Jung SeongU
+
+      Yang
+      DongBin'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 73942405120
+    m_Localized: 'Part1 : Kim JunMyeong, Lee HaYong
+
+      Part2:Lee HaYong, Yang
+      DongBin
+
+      Part3: Kim JunMyeong, Lee HaYong
+
+      Part4: Kim JunMyeong'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 149439877120
+    m_Localized: Kim JunMyeong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2128752906240
+    m_Localized: Youtube Studio - Audio Storage
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3098949947392
+    m_Localized: 'Kim JunMyeong
+
+      Lee HaYong
+
+      Jung SeongU
+
+      Yang
+      DongBin'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3214687571968
+    m_Localized: 'Kim JunMyeong
+
+      Lee HaYong'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20204768694272
+    m_Localized: No cats were hurt while making this game.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

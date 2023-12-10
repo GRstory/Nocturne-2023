@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84b19026c4d047446a6c3ccfc23219c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ledObject: {instanceID: 0}
+  - mat1: {fileID: 2100000, guid: 61f8ff3123f7e7b458eb3c3d07a2024f, type: 2}
+  - mat2: {fileID: 2100000, guid: 53e12ab97b75a844e856d61874800f93, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
